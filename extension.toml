@@ -1,0 +1,16 @@
+id = "cloudformation-language-server"
+name = "CloudFormation language server"
+version = "0.1.0"
+schema_version = 1
+authors = [
+    "Ben Wormald <benwormald.co.uk>"
+]
+description = "CloudFormation language server"
+repository = "https://github.com/Ben-Wormald/cloudformation-language-server-zed"
+
+[language_servers.cloudformation-language-server]
+name = "CloudFormation language server"
+languages = [
+    "JSON",
+    "YAML",
+]
