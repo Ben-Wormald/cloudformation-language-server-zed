@@ -11,6 +11,6 @@ repository = "https://github.com/Ben-Wormald/cloudformation-language-server-zed"
 [language_servers.cloudformation-language-server]
 name = "CloudFormation language server"
 languages = [
-    "JSON",
-    "YAML",
+    "CloudFormation YAML",
+    "CloudFormation JSON",
 ]

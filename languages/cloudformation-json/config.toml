@@ -1,0 +1,4 @@
+name = "CloudFormation JSON"
+grammar = "json"
+path_suffixes = ["cfn.json"]
+tab_size = 2
