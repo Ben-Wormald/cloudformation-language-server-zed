@@ -2,4 +2,5 @@ name = "CloudFormation YAML"
 grammar = "yaml"
 path_suffixes = ["cfn.yaml", "cfn.yml", "template.yaml", "template.yml"]
 first_line_pattern = "^AWSTemplateFormatVersion|^Transform:"
+line_comments = ["# "]
 tab_size = 2
