@@ -1,6 +1,6 @@
 id = "cloudformation-language-server"
 name = "CloudFormation language server"
-version = "0.1.0"
+version = "1.0.0"
 schema_version = 1
 authors = [
     "Ben Wormald <benwormald.co.uk>"
